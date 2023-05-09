@@ -1,6 +1,4 @@
 
-
-
 <h3 align="center">
   Welcome to Youssef Saeed's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -12,7 +10,7 @@
 </p> 
 
 - 📊 I'm a Data Analyst , who can help you use your data accurately to grow confidently more than once. I'm an SQL ,Python , Excel , Google Sheets, PowerBI , Tableau and Looker Studio expert who can complete complex projects.
-- 👨‍💻 Check out my portfolio at https://youssefsaeed.journoportfolio.com/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](([https://youssefsaeed.journoportfolio.com/])) to see some of the projects I've worked on.
 
 
 ### Connect with Me :
