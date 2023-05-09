@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL%20-05122A?style=flat&logo=SQL)&nbsp;
+![SQL](https://img.shields.io/badge/-sql%20-05122A?style=flat&logo=sql)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI%20-05122A?style=flat&logo=PowerBI)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau%20-05122A?style=flat&logo=Tableau)&nbsp;
 
