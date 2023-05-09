@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 📊 I'm a Data Analyst , who can help you use your data accurately to grow confidently more than once. I'm an SQL ,Python , Excel , PowerBI and Tableau expert who can complete complex projects.
+- 📊 I'm a Data Analyst , who can help you use your data accurately to grow confidently more than once. I'm an SQL ,Python , Excel , Google Sheets, PowerBI , Tableau and Looker Studio expert who can complete complex projects.
 - 👨‍💻 Check out my portfolio at https://youssefsaeed.journoportfolio.com/ to see some of the projects I've worked on.
 
 
