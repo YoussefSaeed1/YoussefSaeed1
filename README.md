@@ -10,7 +10,7 @@
 </p> 
 
 - 📊 I'm a Data Analyst , who can help you use your data accurately to grow confidently more than once. I'm an SQL ,Python , Excel , Google Sheets, PowerBI , Tableau and Looker Studio expert who can complete complex projects.
-- 👨‍💻 Check out my portfolio at https://youssefsaeed.journoportfolio.com/ to see some of the projects I've worked on.
+
 
 
 ### Connect with Me :
