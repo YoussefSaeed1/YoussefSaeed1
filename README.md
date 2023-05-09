@@ -17,6 +17,7 @@
 
 <a href="https://linkedin.com/in/youssef-saeed1/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Saeed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youssefsaeed.journoportfolio.com/)
+[![ًWhatsapp](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wa.me/<+201127871217>)
  
 ### 🛠 &nbsp;Tech Stack
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Excel)&nbsp;
