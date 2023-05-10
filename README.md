@@ -30,6 +30,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=ChatGPT)&nbsp;
 
 
 <br>
