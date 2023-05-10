@@ -11,6 +11,10 @@
 
 - 📊 I'm a Data Analyst , who can help you use your data accurately to grow confidently more than once. I'm an SQL ,Python , Excel , Google Sheets, PowerBI , Tableau and Looker Studio expert who can complete complex projects.
 
+- I'm passionate about analyzing data and visualizing it in ways that help my stakeholders understand trends, make decisions, and improve our business.
+ 
+-My experience as a data analyst has taught me how to work in an agile environment where you're constantly learning from your teammates and working collaboratively to create something great.
+
 
 
 ### Connect with Me :
