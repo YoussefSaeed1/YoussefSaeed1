@@ -9,11 +9,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Always%20learning%20new%20things;Curiosity;Problem%20Solving&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 📊 I'm a Data Analyst , who can help you use your data accurately to grow confidently more than once. I'm an SQL ,Python , Excel , Google Sheets, PowerBI , Tableau and Looker Studio expert who can complete complex projects.
+- 📊 Youssef possesses strong proficiency in using statistical methods and programming languages such as SQL and Excel to extract insights from complex data sets. With extensive experience in data cleaning, data transformation, and data visualization with PowerBI and Tableau, He effectively communicates data-driven insights to stakeholders and is comfortable working with large datasets.
 
-- I'm passionate about analyzing data and visualizing it in ways that help my stakeholders understand trends, make decisions, and improve our business.
-
-- My experience as a data analyst has taught me how to work in an agile environment where you're constantly learning from your teammates and working collaboratively to create something great.
+- As a self-motivated and detail-oriented individual, Youssef is passionate about using data to drive business decisions. Youssef helps organizations make data-driven decisions by providing insights and analysis that inform business strategies. The aim is to leverage analytical skills and expertise in data visualization and reporting to extract meaningful insights from complex data sets and communicate them effectively to stakeholders.
  
 
 
@@ -31,9 +29,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau%20-05122A?style=flat&logo=Tableau)&nbsp;
 ![LookerStudio](https://img.shields.io/badge/-Looker%20-05122A?style=flat&logo=Looker)&nbsp;
 ![GoogleSheets](https://img.shields.io/badge/-GoogleSheets%20-05122A?style=flat&logo=GoogleSheets)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+
 
 
 <br>
