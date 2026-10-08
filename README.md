@@ -120,11 +120,11 @@ Every project starts from a business question. Full report pages and details are
 <!-- REPOS:START -->
 | Repository | What it is | Language | Updated |
 |---|---|---|---|
-| [**courtfit**](https://github.com/YoussefSaeed1/courtfit) · [live](https://youssefsaeed1.github.io/courtfit/) | CourtFit: Push/Pull/Legs + tennis training app (installable PWA, works offline) | 🌐 HTML | Oct 2026 |
-| [**portfolio**](https://github.com/YoussefSaeed1/portfolio) · [live](https://youssefsaeed-portfolio.vercel.app/) | Personal portfolio website: Power BI projects, skills, experience and speaking | 🌐 HTML | Oct 2026 |
-| [**powerbi-projects**](https://github.com/YoussefSaeed1/powerbi-projects) | Power BI dashboards built around business questions, with findings and full report pages | — | Oct 2026 |
-| [**Heart_Disease_Project**](https://github.com/YoussefSaeed1/Heart_Disease_Project) | Heart disease risk prediction: ML pipeline and a Streamlit app | 📓 Jupyter Notebook | Oct 2026 |
+| [**courtfit**](https://github.com/YoussefSaeed1/courtfit) | CourtFit: Push/Pull/Legs + tennis training app (installable PWA, works offline) | 🌐 HTML | Oct 2026 |
+| [**portfolio**](https://github.com/YoussefSaeed1/portfolio) · [live](https://youssefsaeed1.github.io/portfolio/) | Personal portfolio website: Power BI projects, skills, experience and speaking | 🌐 HTML | Oct 2026 |
 | [**ERD-Kiwilytics-Project**](https://github.com/YoussefSaeed1/ERD-Kiwilytics-Project) | Entity Relationship Diagram for a sales and order-management database | — | Oct 2026 |
+| [**Heart_Disease_Project**](https://github.com/YoussefSaeed1/Heart_Disease_Project) | This project analyzes heart disease patient data to predict the risk of heart disease using machine learning techniques. It includes data preprocessing, dimensionality reduction (PCA), feature selection, supervised & unsupervised learning, hyperparameter tuning, and a Streamlit web app for interactive predictions. | 📓 Jupyter Notebook | Oct 2026 |
+| [**powerbi-projects**](https://github.com/YoussefSaeed1/powerbi-projects) | Power BI dashboards built around business questions, with findings and full report pages | — | Oct 2026 |
 <!-- REPOS:END -->
 
 ## 🏅 Certifications
