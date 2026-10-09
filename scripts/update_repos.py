@@ -23,6 +23,8 @@ FALLBACK = {
     "vehicle-price-prediction": "Car price prediction with scikit-learn: leak-free pipeline, Gradient Boosting at 6.9% MAPE",
 }
 SKIP = {USER, "YoussefSaeed1.github.io"}
+# Preferred live links, used instead of the repo's Website field.
+HOMEPAGE = {"portfolio": "https://youssefsaeed-portfolio.vercel.app/"}
 LANG_ICON = {"Python": "🐍", "Jupyter Notebook": "📓", "HTML": "🌐", "JavaScript": "🟨",
              "TypeScript": "🔷", "R": "📈", "SQL": "🗄", "TSQL": "🗄"}
 
@@ -49,8 +51,9 @@ def build_table(repos):
         icon = LANG_ICON.get(lang, "")
         updated = datetime.strptime(repo["pushed_at"], "%Y-%m-%dT%H:%M:%SZ").strftime("%b %Y")
         link = f"[**{name}**]({repo['html_url']})"
-        if repo.get("homepage"):
-            link += f" · [live]({repo['homepage']})"
+        live = HOMEPAGE.get(name) or repo.get("homepage")
+        if live:
+            link += f" · [live]({live})"
         lang_cell = f"{icon} {lang}".strip()
         rows.append(f"| {link} | {desc} | {lang_cell} | {updated} |")
     return "\n".join(rows)
