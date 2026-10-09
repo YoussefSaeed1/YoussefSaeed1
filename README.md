@@ -5,7 +5,9 @@
 <h1 align="center">Hi, I'm Youssef Saeed 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1200&color=37A99B&center=true&vCenter=true&width=520&lines=Data+Analytics+Tech+Lead+%40+Eva+Pharma;BI+%26+Analytics+Engineer;Power+BI+%E2%80%A2+Data+Modeling+%E2%80%A2+Automation" alt="Typing roles"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1200&color=37A99B&center=true&vCenter=true&width=520&lines=Data+Analytics+Tech+Lead+%40+Eva+Pharma;Analytics+%26+BI+Leader;Data+Business+Partner" alt="Typing roles"></a>
+  <br>
+  <b>Bridging Data, AI &amp; Business Strategy</b>
 </p>
 
 <p align="center">
@@ -16,7 +18,7 @@
 
 ---
 
-Data and analytics leader with 5+ years across **pharma, insurance, fintech, automotive and poultry**. I lead analytics from business problem to measurable ROI, partner with leadership on the KPIs that matter, and mentor the team behind the data models, pipelines and Power BI reports people trust.
+I help organizations turn complex data into **trusted insights, scalable analytics solutions, and smarter business decisions**, connecting business needs with technology to create measurable impact. 5+ years across **pharma, insurance, fintech, automotive and poultry**.
 
 - 💼 **Now:** Data Analytics Tech Lead at **Eva Pharma**
 - 🌍 **Community:** Community Manager at **People of Data**, 15+ meetups organized
@@ -24,7 +26,27 @@ Data and analytics leader with 5+ years across **pharma, insurance, fintech, aut
 - 👨‍🏫 **Teaching:** 300+ learners taught in data analytics, Excel and Power BI
 - 🎓 **Studying:** Pre‑Master in Data Science, Cairo University
 
-## 🛠 Tech stack
+## 💡 My philosophy
+
+> **Analytics is not about building more dashboards. It's about enabling better decisions.**
+
+Successful analytics starts with understanding business problems, defining trusted metrics, and building solutions that people actually use. Technology enables the work, but business impact defines its success.
+
+`01 Understand the business problem` → `02 Define trusted metrics` → `03 Build scalable solutions` → `04 Collaborate with stakeholders` → `05 Drive measurable impact`
+
+## 🛠 Skills & tech stack
+
+**Business & Leadership**
+<br>
+<img src="https://img.shields.io/badge/Analytics_Strategy-1F6B5E?style=flat-square" alt="Analytics Strategy">
+<img src="https://img.shields.io/badge/Business_Partnership-1F6B5E?style=flat-square" alt="Business Partnership">
+<img src="https://img.shields.io/badge/KPI_Development-1F6B5E?style=flat-square" alt="KPI Development">
+<img src="https://img.shields.io/badge/Stakeholder_Management-1F6B5E?style=flat-square" alt="Stakeholder Management">
+<img src="https://img.shields.io/badge/Data_Storytelling-1F6B5E?style=flat-square" alt="Data Storytelling">
+<img src="https://img.shields.io/badge/Mentoring_%26_Coaching-1F6B5E?style=flat-square" alt="Mentoring and Coaching">
+<img src="https://img.shields.io/badge/Requirements_Gathering-1F6B5E?style=flat-square" alt="Requirements Gathering">
+<img src="https://img.shields.io/badge/Problem_Solving-1F6B5E?style=flat-square" alt="Problem Solving">
+
 
 **BI & Visualization**
 <br>
@@ -138,12 +160,20 @@ Every project starts from a business question. Full report pages and details are
 | Repository | What it is | Language | Updated |
 |---|---|---|---|
 | [**vehicle-price-prediction**](https://github.com/YoussefSaeed1/vehicle-price-prediction) | Predicting car MSRP from specs with scikit-learn: leak-free pipeline, Gradient Boosting (6.9% MAPE), unseen-model evaluation | 📓 Jupyter Notebook | Oct 2026 |
-| [**portfolio**](https://github.com/YoussefSaeed1/portfolio) · [live](https://youssefsaeed1.github.io/portfolio/) | Personal portfolio website: Power BI projects, skills, experience and speaking | 🌐 HTML | Oct 2026 |
+| [**portfolio**](https://github.com/YoussefSaeed1/portfolio) · [live](https://youssefsaeed-portfolio.vercel.app/) | Personal portfolio website: Power BI projects, skills, experience and speaking | 🌐 HTML | Oct 2026 |
 | [**courtfit**](https://github.com/YoussefSaeed1/courtfit) | CourtFit: Push/Pull/Legs + tennis training app (installable PWA, works offline) | 🌐 HTML | Oct 2026 |
 | [**ERD-Kiwilytics-Project**](https://github.com/YoussefSaeed1/ERD-Kiwilytics-Project) | Entity Relationship Diagram for a sales and order-management database | — | Oct 2026 |
 | [**Heart_Disease_Project**](https://github.com/YoussefSaeed1/Heart_Disease_Project) | This project analyzes heart disease patient data to predict the risk of heart disease using machine learning techniques. It includes data preprocessing, dimensionality reduction (PCA), feature selection, supervised & unsupervised learning, hyperparameter tuning, and a Streamlit web app for interactive predictions. | 📓 Jupyter Notebook | Oct 2026 |
 | [**powerbi-projects**](https://github.com/YoussefSaeed1/powerbi-projects) | Power BI dashboards built around business questions, with findings and full report pages | — | Oct 2026 |
 <!-- REPOS:END -->
+
+## 🎓 Education
+
+| | Program | Institution | Years |
+|---|---|---|---|
+| 🎓 | Pre‑Master Diploma in Data Science *(in progress)* | Cairo University · Faculty of Graduate Studies for Statistical Research | 2025 – Present |
+| 🏅 | Certified Data Analyst Professional Diploma | Epsilon AI | 2024 |
+| 🌱 | BSc Agricultural Engineering | Cairo University | 2016 – 2020 |
 
 ## 🏅 Certifications
 
