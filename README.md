@@ -159,8 +159,8 @@ Every project starts from a business question. Full report pages and details are
 <!-- REPOS:START -->
 | Repository | What it is | Language | Updated |
 |---|---|---|---|
-| [**vehicle-price-prediction**](https://github.com/YoussefSaeed1/vehicle-price-prediction) | Predicting car MSRP from specs with scikit-learn: leak-free pipeline, Gradient Boosting (6.9% MAPE), unseen-model evaluation | 📓 Jupyter Notebook | Oct 2026 |
 | [**portfolio**](https://github.com/YoussefSaeed1/portfolio) · [live](https://youssefsaeed-portfolio.vercel.app/) | Personal portfolio website: Power BI projects, skills, experience and speaking | 🌐 HTML | Oct 2026 |
+| [**vehicle-price-prediction**](https://github.com/YoussefSaeed1/vehicle-price-prediction) | Predicting car MSRP from specs with scikit-learn: leak-free pipeline, Gradient Boosting (6.9% MAPE), unseen-model evaluation | 📓 Jupyter Notebook | Oct 2026 |
 | [**courtfit**](https://github.com/YoussefSaeed1/courtfit) | CourtFit: Push/Pull/Legs + tennis training app (installable PWA, works offline) | 🌐 HTML | Oct 2026 |
 | [**ERD-Kiwilytics-Project**](https://github.com/YoussefSaeed1/ERD-Kiwilytics-Project) | Entity Relationship Diagram for a sales and order-management database | — | Oct 2026 |
 | [**Heart_Disease_Project**](https://github.com/YoussefSaeed1/Heart_Disease_Project) | This project analyzes heart disease patient data to predict the risk of heart disease using machine learning techniques. It includes data preprocessing, dimensionality reduction (PCA), feature selection, supervised & unsupervised learning, hyperparameter tuning, and a Streamlit web app for interactive predictions. | 📓 Jupyter Notebook | Oct 2026 |
