@@ -20,6 +20,7 @@ FALLBACK = {
     "Heart_Disease_Project": "Heart disease risk prediction: ML pipeline and a Streamlit app",
     "ERD-Kiwilytics-Project": "Entity Relationship Diagram for a sales and order-management database",
     "courtfit": "CourtFit: Push/Pull/Legs + tennis training app (installable PWA, works offline)",
+    "vehicle-price-prediction": "Car price prediction with scikit-learn: leak-free pipeline, Gradient Boosting at 6.9% MAPE",
 }
 SKIP = {USER, "YoussefSaeed1.github.io"}
 LANG_ICON = {"Python": "🐍", "Jupyter Notebook": "📓", "HTML": "🌐", "JavaScript": "🟨",

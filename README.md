@@ -113,6 +113,23 @@ Every project starts from a business question. Full report pages and details are
   </tr>
 </table>
 
+## 🤖 Machine learning
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YoussefSaeed1/vehicle-price-prediction"><img src="assets/vehicle-price.png" alt="Vehicle price prediction: actual vs predicted"></a>
+      <b>Vehicle Price Prediction</b> <sub>(Python + scikit-learn)</sub><br>
+      <sub>Prices 9,820 cars from their specs within 6.9% on average, and 10.2% on car models it has never seen. Found and fixed data leakage and a $2,000 placeholder price that inflated the first version's R².</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>❤️ Heart Disease Risk</b> <sub>(Python + Streamlit)</sub><br>
+      <sub>Patient data to heart disease risk: preprocessing, PCA, feature selection, supervised and unsupervised models, tuning, and an interactive Streamlit app.</sub><br><br>
+      <a href="https://github.com/YoussefSaeed1/Heart_Disease_Project">Code</a>
+    </td>
+  </tr>
+</table>
+
 ## 🗂 All repositories
 
 <sub>Updated automatically every 6 hours by a GitHub Action.</sub>
@@ -120,6 +137,7 @@ Every project starts from a business question. Full report pages and details are
 <!-- REPOS:START -->
 | Repository | What it is | Language | Updated |
 |---|---|---|---|
+| [**vehicle-price-prediction**](https://github.com/YoussefSaeed1/vehicle-price-prediction) | Predicting car MSRP from specs with scikit-learn: leak-free pipeline, Gradient Boosting (6.9% MAPE), unseen-model evaluation | 📓 Jupyter Notebook | Oct 2026 |
 | [**courtfit**](https://github.com/YoussefSaeed1/courtfit) | CourtFit: Push/Pull/Legs + tennis training app (installable PWA, works offline) | 🌐 HTML | Oct 2026 |
 | [**portfolio**](https://github.com/YoussefSaeed1/portfolio) · [live](https://youssefsaeed1.github.io/portfolio/) | Personal portfolio website: Power BI projects, skills, experience and speaking | 🌐 HTML | Oct 2026 |
 | [**ERD-Kiwilytics-Project**](https://github.com/YoussefSaeed1/ERD-Kiwilytics-Project) | Entity Relationship Diagram for a sales and order-management database | — | Oct 2026 |
