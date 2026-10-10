@@ -5,13 +5,13 @@
 <h1 align="center">Hi, I'm Youssef Saeed 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1200&color=37A99B&center=true&vCenter=true&width=520&lines=Data+Analytics+Tech+Lead+%40+Eva+Pharma;Analytics+%26+BI+Leader;Data+Business+Partner" alt="Typing roles"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1200&color=3C8DE0&center=true&vCenter=true&width=520&lines=Data+Analytics+Tech+Lead+%40+Eva+Pharma;Analytics+%26+BI+Leader;Data+Business+Partner" alt="Typing roles"></a>
   <br>
   <b>Bridging Data, AI &amp; Business Strategy</b>
 </p>
 
 <p align="center">
-  <a href="https://youssefsaeed-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-37A99B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://youssefsaeed-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3C8DE0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/youssef-saeed1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:youssefsaeed206@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -38,20 +38,20 @@ Successful analytics starts with understanding business problems, defining trust
 
 **Business & Leadership**
 <br>
-<img src="https://img.shields.io/badge/Analytics_Strategy-1F6B5E?style=flat-square" alt="Analytics Strategy">
-<img src="https://img.shields.io/badge/Business_Partnership-1F6B5E?style=flat-square" alt="Business Partnership">
-<img src="https://img.shields.io/badge/KPI_Development-1F6B5E?style=flat-square" alt="KPI Development">
-<img src="https://img.shields.io/badge/Stakeholder_Management-1F6B5E?style=flat-square" alt="Stakeholder Management">
-<img src="https://img.shields.io/badge/Data_Storytelling-1F6B5E?style=flat-square" alt="Data Storytelling">
-<img src="https://img.shields.io/badge/Mentoring_%26_Coaching-1F6B5E?style=flat-square" alt="Mentoring and Coaching">
-<img src="https://img.shields.io/badge/Requirements_Gathering-1F6B5E?style=flat-square" alt="Requirements Gathering">
-<img src="https://img.shields.io/badge/Problem_Solving-1F6B5E?style=flat-square" alt="Problem Solving">
+<img src="https://img.shields.io/badge/Analytics_Strategy-1E5A99?style=flat-square" alt="Analytics Strategy">
+<img src="https://img.shields.io/badge/Business_Partnership-1E5A99?style=flat-square" alt="Business Partnership">
+<img src="https://img.shields.io/badge/KPI_Development-1E5A99?style=flat-square" alt="KPI Development">
+<img src="https://img.shields.io/badge/Stakeholder_Management-1E5A99?style=flat-square" alt="Stakeholder Management">
+<img src="https://img.shields.io/badge/Data_Storytelling-1E5A99?style=flat-square" alt="Data Storytelling">
+<img src="https://img.shields.io/badge/Mentoring_%26_Coaching-1E5A99?style=flat-square" alt="Mentoring and Coaching">
+<img src="https://img.shields.io/badge/Requirements_Gathering-1E5A99?style=flat-square" alt="Requirements Gathering">
+<img src="https://img.shields.io/badge/Problem_Solving-1E5A99?style=flat-square" alt="Problem Solving">
 
 
 **BI & Visualization**
 <br>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/DAX-1F6B5E?style=flat-square" alt="DAX">
+<img src="https://img.shields.io/badge/DAX-1E5A99?style=flat-square" alt="DAX">
 <img src="https://img.shields.io/badge/Power_Query-2B7A4B?style=flat-square" alt="Power Query">
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
