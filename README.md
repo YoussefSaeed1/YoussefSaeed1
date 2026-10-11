@@ -93,7 +93,7 @@ Every project starts from a business question. Each one is a Power BI Project (P
     <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/02-pharma-trade-intelligence-egypt"><img src="assets/pharma.jpg" alt="Pharmaceutical Trade Intelligence, Egypt dashboard"></a>
       <b>Pharmaceutical Trade Intelligence, Egypt</b><br>
-      <sub>Real UN Comtrade data: imports down 16.5% in 2025, Belgium and Switzerland supply 69%. Fixed a 2.76× double count.</sub>
+      <sub>Real UN Comtrade data: imports down 16.5% in 2025, Belgium and Switzerland supply 69%.</sub>
     </td>
   </tr>
   <tr>
@@ -141,12 +141,12 @@ Every project starts from a business question. Each one is a Power BI Project (P
     <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/vehicle-price-prediction"><img src="assets/vehicle-price.png" alt="Vehicle price prediction: actual vs predicted"></a>
       <b>Vehicle Price Prediction</b> <sub>(Python + scikit-learn)</sub><br>
-      <sub>Prices 9,820 cars from their specs within 6.9% on average, and 10.2% on car models it has never seen. Found and fixed data leakage and a $2,000 placeholder price that inflated the first version's R².</sub>
+      <sub>Prices 9,820 cars from their specs within 6.9% on average, and 10.2% on car models it has never seen. Leak-free pipeline with data validation and a model card.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/Heart_Disease_Project"><img src="assets/heart-disease.jpg" alt="Heart disease model: ROC curves and confusion matrix"></a>
       <b>❤️ Heart Disease Risk</b> <sub>(Python + scikit-learn + Streamlit)</sub><br>
-      <sub>Logistic regression at a cross-validated ROC AUC of 0.90 on 303 patients, with data validation, a model card and a Streamlit app. Repeated CV showed the single test split flattered every model.</sub>
+      <sub>Logistic regression at a cross-validated ROC AUC of 0.90 on 303 patients, with data validation, a model card and a Streamlit app. Evaluated with repeated cross-validation.</sub>
     </td>
   </tr>
 </table>
