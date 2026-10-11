@@ -99,39 +99,47 @@ Every project starts from a business question. Each one is a Power BI Project (P
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/09-motor-insurance-portfolio"><img src="assets/insurance.jpg" alt="Motor Insurance Portfolio dashboard"></a>
+      <b>Motor Insurance Portfolio</b><br>
+      <sub>Loss ratio up to 66.2% as claim costs rose 21%; drivers aged 18–25 run at 110.7%.</sub>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/03-sales-tracker"><img src="assets/sales-tracker.jpg" alt="Sales Tracker dashboard"></a>
       <b>Sales Tracker</b><br>
       <sub>$24.91M revenue at 41.97% margin, and bikes bring in almost 95% of it.</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/04-procure-to-pay"><img src="assets/p2p.jpg" alt="Procure-to-Pay Performance dashboard"></a>
       <b>Procure-to-Pay Performance</b><br>
       <sub>Where the procurement cycle loses time: 26.9 days from request to receipt, 8.2% maverick spend.</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/05-ecommerce-sales-profit"><img src="assets/ecommerce.jpg" alt="E‑Commerce Sales &amp; Profit dashboard"></a>
       <b>E‑Commerce Sales &amp; Profit</b><br>
       <sub>The South sold $357K and lost $14.4K; lines discounted 9% or more lose money.</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/06-sales-vs-forecast"><img src="assets/sales-forecast.jpg" alt="Sales vs Forecast dashboard"></a>
       <b>Sales vs Forecast</b><br>
       <sub>2009 came in $2.30M below 2008 but $1.62M above the $39M forecast.</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/07-electronics-sales-2019"><img src="assets/electronics.jpg" alt="Electronics Sales 2019 dashboard"></a>
       <b>Electronics Sales 2019</b><br>
       <sub>$34.49M from 187.3K orders; December alone brings $4.65M.</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/08-egypt-property-market"><img src="assets/property.jpg" alt="Egypt Property Market dashboard"></a>
       <b>Egypt Property Market</b><br>
       <sub>Where buyers get the most space for their money: Alexandria apartments, 27% more than Cairo.</sub>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
