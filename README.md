@@ -82,14 +82,14 @@ Successful analytics starts with understanding business problems, defining trust
 
 ## 📊 Featured Power BI projects
 
-Every project starts from a business question. Each one is a Power BI Project (PBIP) with documented measures, row-level security and a data quality page; full report pages are in **[powerbi-projects](https://github.com/YoussefSaeed1/powerbi-projects)**.
+Every project starts from the decision it supports. Each one is a Power BI Project (PBIP) with documented measures, row-level security and a data quality page; full report pages are in **[powerbi-projects](https://github.com/YoussefSaeed1/powerbi-projects)**.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/01-inventory-management"><img src="assets/inventory.jpg" alt="Inventory Management dashboard"></a>
       <b>Inventory Management</b><br>
-      <sub>Revenue is up 21.8%, so why are stockouts rising? 5 pages, warehouse-level security, data quality checks.</sub>
+      <sub>Revenue is up 21.8% but stockouts are rising: which products need higher reorder points? 5 pages, warehouse-level security, data quality checks.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/02-pharma-trade-intelligence-egypt"><img src="assets/pharma.jpg" alt="Pharmaceutical Trade Intelligence, Egypt dashboard"></a>
