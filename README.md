@@ -14,6 +14,7 @@
   <a href="https://youssefsaeed-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-37A99B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/youssef-saeed1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:youssefsaeed206@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://cal.com/youssefsaeed"><img src="https://img.shields.io/badge/Book_a_call-292929?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"></a>
 </p>
 
 ---
@@ -192,5 +193,5 @@ Every project starts from a business question. Each one is a Power BI Project (P
 ---
 
 <p align="center">
-  <sub>Got messy data? Let's talk. · <a href="https://youssefsaeed-portfolio.vercel.app/">youssefsaeed-portfolio.vercel.app</a></sub>
+  <sub>Got messy data? Let's talk. · <a href="https://cal.com/youssefsaeed">Book a call</a> · <a href="https://youssefsaeed-portfolio.vercel.app/">youssefsaeed-portfolio.vercel.app</a></sub>
 </p>
