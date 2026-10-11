@@ -81,56 +81,55 @@ Successful analytics starts with understanding business problems, defining trust
 
 ## 📊 Featured Power BI projects
 
-Every project starts from a business question. Full report pages and details are in **[powerbi-projects](https://github.com/YoussefSaeed1/powerbi-projects)**.
+Every project starts from a business question. Each one is a Power BI Project (PBIP) with documented measures, row-level security and a data quality page; full report pages are in **[powerbi-projects](https://github.com/YoussefSaeed1/powerbi-projects)**.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/01-inventory-management"><img src="assets/inventory.jpg" alt="Inventory Management dashboard"></a>
       <b>Inventory Management</b><br>
-      <sub>Revenue is up 21.8%, so why are stockouts rising? 4 report pages, ABC classification.</sub>
+      <sub>Revenue is up 21.8%, so why are stockouts rising? 5 pages, warehouse-level security, data quality checks.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/02-sales-tracker"><img src="assets/sales-tracker.jpg" alt="Sales Tracker dashboard"></a>
+      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/02-pharma-trade-intelligence-egypt"><img src="assets/pharma.jpg" alt="Pharmaceutical Trade Intelligence, Egypt dashboard"></a>
+      <b>Pharmaceutical Trade Intelligence, Egypt</b><br>
+      <sub>Real UN Comtrade data: imports down 16.5% in 2025, Belgium and Switzerland supply 69%. Fixed a 2.76× double count.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/03-sales-tracker"><img src="assets/sales-tracker.jpg" alt="Sales Tracker dashboard"></a>
       <b>Sales Tracker</b><br>
       <sub>$24.91M revenue at 41.97% margin, and bikes bring in almost 95% of it.</sub>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/04-procure-to-pay"><img src="assets/p2p.jpg" alt="Procure-to-Pay Performance dashboard"></a>
+      <b>Procure-to-Pay Performance</b><br>
+      <sub>Where the procurement cycle loses time: 26.9 days from request to receipt, 8.2% maverick spend.</sub>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/03-ecommerce-sales-profit"><img src="assets/ecommerce.jpg" alt="E-Commerce Sales and Profit dashboard"></a>
+      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/05-ecommerce-sales-profit"><img src="assets/ecommerce.jpg" alt="E‑Commerce Sales &amp; Profit dashboard"></a>
       <b>E‑Commerce Sales &amp; Profit</b><br>
-      <sub>Which regions sell well but don't make money? The South sold $357K and lost $14.4K.</sub>
+      <sub>The South sold $357K and lost $14.4K; lines discounted 9% or more lose money.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/04-call-center-performance"><img src="assets/call-center.jpg" alt="Call Center Performance dashboard"></a>
-      <b>Call Center Performance</b><br>
-      <sub>5,000 calls: 81% answered, 73% resolved, satisfaction 3.4 / 5.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/05-sales-and-forecast"><img src="assets/sales-forecast.jpg" alt="Sales and Forecast dashboard"></a>
-      <b>Sales and Forecast</b><br>
-      <sub>2009 sales came in $2.3M below 2008 but above the $39M forecast.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/06-sales-analysis"><img src="assets/sales-analysis.jpg" alt="Sales Analysis dashboard"></a>
-      <b>Sales Analysis</b><br>
-      <sub>$34.49M from 186K orders; December peaks at $4.6M.</sub>
+      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/06-sales-vs-forecast"><img src="assets/sales-forecast.jpg" alt="Sales vs Forecast dashboard"></a>
+      <b>Sales vs Forecast</b><br>
+      <sub>2009 came in $2.30M below 2008 but $1.62M above the $39M forecast.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/07-egypt-real-estate"><img src="assets/realestate.jpg" alt="Egypt Real Estate dashboard"></a>
-      <b>Egypt Real Estate Market</b> <sub>(Python + Power BI)</sub><br>
-      <sub>Alexandria villas average 5.5M, the highest of any location and type.</sub>
+      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/07-electronics-sales-2019"><img src="assets/electronics.jpg" alt="Electronics Sales 2019 dashboard"></a>
+      <b>Electronics Sales 2019</b><br>
+      <sub>$34.49M from 187.3K orders; December alone brings $4.65M.</sub>
     </td>
     <td width="50%" valign="top">
-      <b>🎾 Side project: CourtFit</b><br>
-      <sub>My own Push / Pull / Legs + tennis training app. Installable PWA that works offline, with exercise photos, progress tracking and an Arabic version.</sub><br><br>
-      <a href="https://github.com/YoussefSaeed1/courtfit">Code</a> · <a href="https://youssefsaeed1.github.io/courtfit/">Open the app</a><br><br>
-      <sub>More below in <a href="#-all-repositories">All repositories</a>.</sub>
+      <a href="https://github.com/YoussefSaeed1/powerbi-projects/tree/main/08-egypt-property-market"><img src="assets/property.jpg" alt="Egypt Property Market dashboard"></a>
+      <b>Egypt Property Market</b><br>
+      <sub>Where buyers get the most space for their money: Alexandria apartments, 27% more than Cairo.</sub>
     </td>
   </tr>
 </table>
@@ -145,12 +144,16 @@ Every project starts from a business question. Full report pages and details are
       <sub>Prices 9,820 cars from their specs within 6.9% on average, and 10.2% on car models it has never seen. Found and fixed data leakage and a $2,000 placeholder price that inflated the first version's R².</sub>
     </td>
     <td width="50%" valign="top">
-      <b>❤️ Heart Disease Risk</b> <sub>(Python + Streamlit)</sub><br>
-      <sub>Patient data to heart disease risk: preprocessing, PCA, feature selection, supervised and unsupervised models, tuning, and an interactive Streamlit app.</sub><br><br>
-      <a href="https://github.com/YoussefSaeed1/Heart_Disease_Project">Code</a>
+      <a href="https://github.com/YoussefSaeed1/Heart_Disease_Project"><img src="assets/heart-disease.jpg" alt="Heart disease model: ROC curves and confusion matrix"></a>
+      <b>❤️ Heart Disease Risk</b> <sub>(Python + scikit-learn + Streamlit)</sub><br>
+      <sub>Logistic regression at a cross-validated ROC AUC of 0.90 on 303 patients, with data validation, a model card and a Streamlit app. Repeated CV showed the single test split flattered every model.</sub>
     </td>
   </tr>
 </table>
+
+## 🎾 Side project
+
+**[CourtFit](https://github.com/YoussefSaeed1/courtfit)**: my own Push / Pull / Legs + tennis training app. Installable PWA that works offline, with exercise photos, progress tracking and an Arabic version. · [Open the app](https://youssefsaeed1.github.io/courtfit/)
 
 ## 🗂 All repositories
 
