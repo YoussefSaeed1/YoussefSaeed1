@@ -19,12 +19,13 @@ FALLBACK = {
     "powerbi-projects": "Power BI dashboards built around business questions, with findings and full report pages",
     "Heart_Disease_Project": "Heart disease risk prediction: ML pipeline and a Streamlit app",
     "ERD-Kiwilytics-Project": "Entity Relationship Diagram for a sales and order-management database",
-    "courtfit": "CourtFit: Push/Pull/Legs + tennis training app (installable PWA, works offline)",
+    "supply-chain-planning-control-tower": "Supply chain planning control tower: MPS, BOM explosion, MRP netting, shortages, procurement and capacity on synthetic data",
     "vehicle-price-prediction": "Car price prediction with scikit-learn: leak-free pipeline, Gradient Boosting at 6.9% MAPE",
 }
 SKIP = {USER, "YoussefSaeed1.github.io"}
 # Preferred live links, used instead of the repo's Website field.
-HOMEPAGE = {"portfolio": "https://youssefsaeed-portfolio.vercel.app/"}
+HOMEPAGE = {"portfolio": "https://youssefsaeed-portfolio.vercel.app/",
+            "supply-chain-planning-control-tower": "https://claude.ai/artifact/32SBwQm7wDy8PcUREVxnvm#overview"}
 LANG_ICON = {"Python": "🐍", "Jupyter Notebook": "📓", "HTML": "🌐", "JavaScript": "🟨",
              "TypeScript": "🔷", "R": "📈", "SQL": "🗄", "TSQL": "🗄"}
 

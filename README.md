@@ -147,6 +147,19 @@ Every project starts from the decision it supports. Each one is a Power BI Proje
   </tr>
 </table>
 
+## 🔗 Supply chain analytics
+
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/YoussefSaeed1/supply-chain-planning-control-tower"><img src="assets/supply-chain.jpg" alt="Supply Chain Planning MRP and MPS Control Tower: executive overview"></a>
+      <b>Supply Chain Planning | MRP &amp; MPS Control Tower</b> <sub>(Claude Dashboard + D3.js + Python)</sub><br>
+      <sub>End-to-end planning analytics: demand, MPS, BOM explosion, MRP netting, shortages, procurement, supplier risk and line capacity, with planned and executable production kept separate. 9 pages with filters and drill-downs. Synthetic data used for demonstration purposes only.</sub><br>
+      <sub><a href="https://claude.ai/artifact/32SBwQm7wDy8PcUREVxnvm#overview">Interactive dashboard</a> · <a href="https://github.com/YoussefSaeed1/supply-chain-planning-control-tower">Code and README</a></sub>
+    </td>
+  </tr>
+</table>
+
 ## 🤖 Machine learning
 
 <table>
@@ -163,10 +176,6 @@ Every project starts from the decision it supports. Each one is a Power BI Proje
     </td>
   </tr>
 </table>
-
-## 🎾 Side project
-
-**[CourtFit](https://github.com/YoussefSaeed1/courtfit)**: my own Push / Pull / Legs + tennis training app. Installable PWA that works offline, with exercise photos, progress tracking and an Arabic version. · [Open the app](https://youssefsaeed1.github.io/courtfit/)
 
 ## 🗂 All repositories
 
