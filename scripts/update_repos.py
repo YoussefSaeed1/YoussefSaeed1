@@ -15,17 +15,19 @@ START, END = "<!-- REPOS:START -->", "<!-- REPOS:END -->"
 
 # Used only when a repository has no "About" description on GitHub.
 FALLBACK = {
-    "portfolio": "Personal portfolio website: Power BI projects, skills, experience and speaking",
+    "portfolio": "Personal portfolio website: analytics, Power BI and machine learning projects, skills, experience and speaking",
     "powerbi-projects": "Power BI dashboards built around business questions, with findings and full report pages",
     "Heart_Disease_Project": "Heart disease risk prediction: ML pipeline and a Streamlit app",
     "ERD-Kiwilytics-Project": "Entity Relationship Diagram for a sales and order-management database",
     "supply-chain-planning-control-tower": "Supply chain planning control tower: MPS, BOM explosion, MRP netting, shortages, procurement and capacity on synthetic data",
+    "intelligent-demand-forecasting": "Demand forecasting and inventory optimisation: 13 methods on Store Item and Walmart M5, Power BI report and a live research app",
     "vehicle-price-prediction": "Car price prediction with scikit-learn: leak-free pipeline, Gradient Boosting at 6.9% MAPE",
 }
 SKIP = {USER, "YoussefSaeed1.github.io"}
 # Preferred live links, used instead of the repo's Website field.
 HOMEPAGE = {"portfolio": "https://youssefsaeed-portfolio.vercel.app/",
-            "supply-chain-planning-control-tower": "https://claude.ai/artifact/32SBwQm7wDy8PcUREVxnvm#overview"}
+            "supply-chain-planning-control-tower": "https://youssefsaeed-portfolio.vercel.app/demos/supply-chain/",
+            "intelligent-demand-forecasting": "https://idf-web.vercel.app"}
 LANG_ICON = {"Python": "🐍", "Jupyter Notebook": "📓", "HTML": "🌐", "JavaScript": "🟨",
              "TypeScript": "🔷", "R": "📈", "SQL": "🗄", "TSQL": "🗄"}
 

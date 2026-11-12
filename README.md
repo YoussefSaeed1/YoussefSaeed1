@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Youssef Saeed 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1200&color=37A99B&center=true&vCenter=true&width=520&lines=Data+Analytics+Tech+Lead+%40+Eva+Pharma;Analytics+%26+BI+Leader;Data+Business+Partner" alt="Typing roles"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1200&color=37A99B&center=true&vCenter=true&width=520&lines=Data+Analytics+Tech+Lead+%40+Eva+Pharma;Analytics+%26+BI+%C2%B7+Data+Science+%C2%B7+ML+%26+AI;Data+Business+Partner" alt="Typing roles"></a>
   <br>
   <b>Bridging Data, AI &amp; Business Strategy</b>
 </p>
@@ -19,10 +19,10 @@
 
 ---
 
-I help organizations turn complex data into **trusted insights, scalable analytics solutions, and smarter business decisions**, connecting business needs with technology to create measurable impact. 5+ years across **pharma, insurance, fintech, automotive and poultry**.
+Data Analytics Tech Lead specialising in **analytics, business intelligence, data science, machine learning and AI**. I help organisations turn complex data into **trusted insights, scalable analytics solutions and better decisions**, connecting business needs with technology to create measurable impact. 5+ years across **pharma, insurance, fintech, automotive and poultry**.
 
 - 💼 **Now:** Data Analytics Tech Lead at **Eva Pharma**
-- 🌍 **Community:** Community Manager at **People of Data**, 15+ meetups organized
+- 🌍 **Community:** Community Manager at **People of Data**, 15+ meetups organised
 - 🎤 **Speaking:** Panelist, *AI Without Limits* at Google I/O Extended New Cairo
 - 👨‍🏫 **Teaching:** 300+ learners taught in data analytics, Excel and Power BI
 - 🎓 **Studying:** Pre‑Master in Data Science, Cairo University
@@ -49,7 +49,7 @@ Successful analytics starts with understanding business problems, defining trust
 <img src="https://img.shields.io/badge/Problem_Solving-1F6B5E?style=flat-square" alt="Problem Solving">
 
 
-**BI & Visualization**
+**BI & Visualisation**
 <br>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
 <img src="https://img.shields.io/badge/DAX-1F6B5E?style=flat-square" alt="DAX">
@@ -70,6 +70,25 @@ Successful analytics starts with understanding business problems, defining trust
 <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate">
 <img src="https://img.shields.io/badge/Alteryx-0078C0?style=flat-square&logo=alteryx&logoColor=white" alt="Alteryx">
 
+**Data Science & Machine Learning**
+<br>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/LightGBM-1F6B5E?style=flat-square" alt="LightGBM">
+<img src="https://img.shields.io/badge/statsmodels-1F6B5E?style=flat-square" alt="statsmodels">
+<img src="https://img.shields.io/badge/Time_Series_Forecasting-1F6B5E?style=flat-square" alt="Time series forecasting">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+
+**Apps & Deployment**
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+
 **Code & AI**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -79,6 +98,38 @@ Successful analytics starts with understanding business problems, defining trust
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT">
 <img src="https://img.shields.io/badge/AI_Agents_%26_MCPs-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="AI Agents and MCPs">
+
+## ⭐ Featured: Intelligent Demand Forecasting & Inventory Optimisation
+
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/YoussefSaeed1/intelligent-demand-forecasting"><img src="assets/demand-forecasting.jpg" alt="Intelligent Demand Forecasting: Power BI executive overview"></a>
+      <b>Does machine learning forecast daily retail demand better than simple baselines, and what would that mean for replenishment?</b><br>
+      <sub>13 forecasting methods (seasonal baselines, exponential smoothing, Croston/SBA/TSB, global Random Forest and LightGBM) on Store Item (500 series) and Walmart M5 (30,490 series), 28 days ahead, leakage-safe, with a sealed final holdout. LightGBM cut Store Item MAE to 5.43 from 12.81 (seasonal naive); on intermittent M5 the selected Random Forest beat a 28-day moving average by only 1.7%. A lost-sales inventory simulation showed better accuracy did not reliably lower cost. Delivered as a Power BI report and a live Next.js, FastAPI and PostgreSQL research app.</sub><br>
+      <sub><b><a href="https://idf-web.vercel.app">Live demo</a></b> · <a href="https://github.com/YoussefSaeed1/intelligent-demand-forecasting">Code and README</a> · Python · scikit-learn · LightGBM · statsmodels · Power BI · Next.js · FastAPI · Supabase · Vercel</sub>
+    </td>
+  </tr>
+</table>
+
+## 🤖 Machine learning
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YoussefSaeed1/vehicle-price-prediction"><img src="assets/vehicle-price.png" alt="Vehicle price prediction: actual vs predicted"></a>
+      <b>Vehicle Price Prediction</b> <sub>(Python + scikit-learn)</sub><br>
+      <sub>Prices 9,820 cars from their specs within 6.9% on average, and 10.2% on car models it has never seen. Leak-free pipeline with data validation and a model card.</sub><br>
+      <sub><b>Selected:</b> Gradient Boosting · compared with Random Forest, Ridge regression and a median baseline</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YoussefSaeed1/Heart_Disease_Project"><img src="assets/heart-disease.jpg" alt="Heart disease model: ROC curves and confusion matrix"></a>
+      <b>❤️ Heart Disease Risk</b> <sub>(Python + scikit-learn + Streamlit)</sub><br>
+      <sub>Logistic regression at a cross-validated ROC AUC of 0.90 on 303 patients, with data validation, a model card and a Streamlit app. Evaluated with repeated cross-validation.</sub><br>
+      <sub><b>Selected:</b> logistic regression · compared with Random Forest, Gradient Boosting, SVM (RBF) and a baseline</sub>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Featured Power BI projects
 
@@ -160,23 +211,6 @@ Every project starts from the decision it supports. Each one is a Power BI Proje
   </tr>
 </table>
 
-## 🤖 Machine learning
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/YoussefSaeed1/vehicle-price-prediction"><img src="assets/vehicle-price.png" alt="Vehicle price prediction: actual vs predicted"></a>
-      <b>Vehicle Price Prediction</b> <sub>(Python + scikit-learn)</sub><br>
-      <sub>Prices 9,820 cars from their specs within 6.9% on average, and 10.2% on car models it has never seen. Leak-free pipeline with data validation and a model card.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/YoussefSaeed1/Heart_Disease_Project"><img src="assets/heart-disease.jpg" alt="Heart disease model: ROC curves and confusion matrix"></a>
-      <b>❤️ Heart Disease Risk</b> <sub>(Python + scikit-learn + Streamlit)</sub><br>
-      <sub>Logistic regression at a cross-validated ROC AUC of 0.90 on 303 patients, with data validation, a model card and a Streamlit app. Evaluated with repeated cross-validation.</sub>
-    </td>
-  </tr>
-</table>
-
 ## 🗂 All repositories
 
 <sub>Updated automatically every 6 hours by a GitHub Action.</sub>
@@ -184,8 +218,9 @@ Every project starts from the decision it supports. Each one is a Power BI Proje
 <!-- REPOS:START -->
 | Repository | What it is | Language | Updated |
 |---|---|---|---|
-| [**portfolio**](https://github.com/YoussefSaeed1/portfolio) · [live](https://youssefsaeed-portfolio.vercel.app/) | Personal portfolio website: Power BI projects, skills, experience and speaking | 🌐 HTML | Nov 2026 |
-| [**supply-chain-planning-control-tower**](https://github.com/YoussefSaeed1/supply-chain-planning-control-tower) · [live](https://claude.ai/artifact/32SBwQm7wDy8PcUREVxnvm#overview) | Supply chain planning control tower: MPS, BOM explosion, MRP netting, shortages, procurement and capacity on synthetic data | 🐍 Python | Oct 2026 |
+| [**portfolio**](https://github.com/YoussefSaeed1/portfolio) · [live](https://youssefsaeed-portfolio.vercel.app/) | Personal portfolio website: analytics, Power BI and machine learning projects, skills, experience and speaking | 🌐 HTML | Nov 2026 |
+| [**intelligent-demand-forecasting**](https://github.com/YoussefSaeed1/intelligent-demand-forecasting) · [live](https://idf-web.vercel.app) | ML vs baseline demand forecasting on Store Item & M5 (Walmart), with inventory simulation, Power BI report and a live Next.js/FastAPI research app | 🐍 Python | Nov 2026 |
+| [**supply-chain-planning-control-tower**](https://github.com/YoussefSaeed1/supply-chain-planning-control-tower) · [live](https://youssefsaeed-portfolio.vercel.app/demos/supply-chain/) | Supply chain planning control tower: MPS, BOM explosion, MRP netting, shortages, procurement and capacity on synthetic data | 🐍 Python | Oct 2026 |
 | [**powerbi-projects**](https://github.com/YoussefSaeed1/powerbi-projects) | Power BI dashboards built around business questions, with findings and full report pages | 🐍 Python | Oct 2026 |
 | [**ERD-Kiwilytics-Project**](https://github.com/YoussefSaeed1/ERD-Kiwilytics-Project) | Entity Relationship Diagram for a sales and order-management database | — | Oct 2026 |
 | [**vehicle-price-prediction**](https://github.com/YoussefSaeed1/vehicle-price-prediction) | Predicting car MSRP from specs with scikit-learn: leak-free pipeline, Gradient Boosting (6.9% MAPE), unseen-model evaluation | 📓 Jupyter Notebook | Oct 2026 |
