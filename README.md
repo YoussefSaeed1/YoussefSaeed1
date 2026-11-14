@@ -205,7 +205,7 @@ Every project starts from the decision it supports. Each one is a Power BI Proje
     <td valign="top">
       <a href="https://github.com/YoussefSaeed1/supply-chain-planning-control-tower"><img src="assets/supply-chain.jpg" alt="Supply Chain Planning MRP and MPS Control Tower: executive overview"></a>
       <b>Supply Chain Planning | MRP &amp; MPS Control Tower</b> <sub>(Claude Dashboard + D3.js + Python)</sub><br>
-      <sub>End-to-end planning analytics: demand, MPS, BOM explosion, MRP netting, shortages, procurement, supplier risk and line capacity, with planned and executable production kept separate. 9 pages with filters and drill-downs. Synthetic data used for demonstration purposes only.</sub><br>
+      <sub>Which shortages will block production first: 21 of 65 materials are short (9 critical), 21 POs are already overdue, and executable production reaches 95.9% of plan. 9 pages with filters and drill-downs. Synthetic data used for demonstration purposes only.</sub><br>
       <sub><a href="https://youssefsaeed-portfolio.vercel.app/demos/supply-chain/">Interactive dashboard</a> · <a href="https://github.com/YoussefSaeed1/supply-chain-planning-control-tower">Code and README</a></sub>
     </td>
   </tr>
