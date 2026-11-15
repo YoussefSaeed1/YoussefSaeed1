@@ -118,9 +118,10 @@ Successful analytics starts with understanding business problems, defining trust
   <tr>
     <td valign="top">
       <a href="https://yunex-cloud.vercel.app/"><img src="assets/yunex.jpg" alt="Yunex pipeline editor: a failing quality gate blocks the Silver output and skips Gold"></a>
-      <b>Yunex: a visual data pipeline that runs entirely in your browser. When two negative prices fail a quality rule, Silver is blocked and Gold is skipped until a filter fixes the data.</b><br>
-      <sub>Yunex is a data platform with a React Flow pipeline editor: ten node types are compiled to SQL, validated and run in the browser with DuckDB-WASM, with no backend. Each run publishes Bronze, Silver and Gold outputs with manifests (schema, row count, SHA-256 content hash), and lineage is built from them. Quality rules run as SQL before anything is published, and every node downstream of a blocked output is skipped. Synthetic data only.</sub><br>
-      <sub><b><a href="https://yunex-cloud.vercel.app/">Live demo</a></b> · Private repository · DuckDB-WASM · SQL · TypeScript · React · React Flow · IndexedDB · Playwright · Python · dbt Core · Vercel</sub>
+      <b>Yunex · Connect. Transform. Govern.</b><br>
+      <b>A visual ETL tool that runs in your browser and publishes only data that passes its quality checks.</b><br>
+      <sub>Yunex is an ETL tool with a React Flow pipeline editor: ten node types are compiled to SQL, validated and run in the browser with DuckDB-WASM, with no backend. Each run publishes Bronze, Silver and Gold outputs with manifests (schema, row count, SHA-256 content hash), and lineage is built from them. Quality rules run as SQL before anything is published, and every node downstream of a blocked output is skipped. Synthetic data only.</sub><br>
+      <sub><b><a href="https://yunex-cloud.vercel.app/">Live demo</a></b> · DuckDB-WASM · SQL · TypeScript · React · React Flow · IndexedDB · Playwright · Python · dbt Core · Vercel</sub>
     </td>
   </tr>
 </table>
