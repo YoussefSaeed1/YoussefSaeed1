@@ -112,6 +112,19 @@ Successful analytics starts with understanding business problems, defining trust
   </tr>
 </table>
 
+## 🧱 Data engineering
+
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://yunex-cloud.vercel.app/"><img src="assets/yunex.jpg" alt="Yunex pipeline editor: a failing quality gate blocks the Silver output and skips Gold"></a>
+      <b>Can a visual data pipeline run end to end in the browser, with quality gates that actually stop bad data from being published?</b><br>
+      <sub>Yunex is a data platform with a React Flow pipeline editor: ten node types are compiled to SQL, validated and run in the browser with DuckDB-WASM, with no backend. Each run publishes Bronze, Silver and Gold outputs with manifests (schema, row count, SHA-256 content hash), and lineage is built from them. Quality rules run as SQL before publication: in the guided example two negative prices block Silver and skip Gold until a filter is added. Synthetic data only.</sub><br>
+      <sub><b><a href="https://yunex-cloud.vercel.app/">Live demo</a></b> · Private repository · DuckDB-WASM · SQL · TypeScript · React · React Flow · IndexedDB · Playwright · Python · dbt Core · Vercel</sub>
+    </td>
+  </tr>
+</table>
+
 ## 🤖 Machine learning
 
 <table>
@@ -218,7 +231,6 @@ Every project starts from the decision it supports. Each one is a Power BI Proje
 <!-- REPOS:START -->
 | Repository | What it is | Language | Updated |
 |---|---|---|---|
-| [**open-data-platform**](https://github.com/YoussefSaeed1/open-data-platform) | — | — | Nov 2026 |
 | [**supply-chain-planning-control-tower**](https://github.com/YoussefSaeed1/supply-chain-planning-control-tower) · [live](https://youssefsaeed-portfolio.vercel.app/demos/supply-chain/) | Supply chain planning control tower: MPS, BOM explosion, MRP netting, shortages, procurement and capacity on synthetic data | 🐍 Python | Nov 2026 |
 | [**portfolio**](https://github.com/YoussefSaeed1/portfolio) · [live](https://youssefsaeed-portfolio.vercel.app/) | Personal portfolio website: analytics, Power BI and machine learning projects, skills, experience and speaking | 🌐 HTML | Nov 2026 |
 | [**intelligent-demand-forecasting**](https://github.com/YoussefSaeed1/intelligent-demand-forecasting) · [live](https://idf-web.vercel.app) | ML vs baseline demand forecasting on Store Item & M5 (Walmart), with inventory simulation, Power BI report and a live Next.js/FastAPI research app | 🐍 Python | Nov 2026 |

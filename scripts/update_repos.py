@@ -23,7 +23,8 @@ FALLBACK = {
     "intelligent-demand-forecasting": "Demand forecasting and inventory optimisation: 13 methods on Store Item and Walmart M5, Power BI report and a live research app",
     "vehicle-price-prediction": "Car price prediction with scikit-learn: leak-free pipeline, Gradient Boosting at 6.9% MAPE",
 }
-SKIP = {USER, "YoussefSaeed1.github.io"}
+# open-data-platform is private; Yunex is shown above with its live demo.
+SKIP = {USER, "YoussefSaeed1.github.io", "open-data-platform"}
 # Preferred live links, used instead of the repo's Website field.
 HOMEPAGE = {"portfolio": "https://youssefsaeed-portfolio.vercel.app/",
             "supply-chain-planning-control-tower": "https://youssefsaeed-portfolio.vercel.app/demos/supply-chain/",
