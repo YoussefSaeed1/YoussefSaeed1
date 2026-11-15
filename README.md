@@ -218,6 +218,7 @@ Every project starts from the decision it supports. Each one is a Power BI Proje
 <!-- REPOS:START -->
 | Repository | What it is | Language | Updated |
 |---|---|---|---|
+| [**open-data-platform**](https://github.com/YoussefSaeed1/open-data-platform) | — | — | Nov 2026 |
 | [**supply-chain-planning-control-tower**](https://github.com/YoussefSaeed1/supply-chain-planning-control-tower) · [live](https://youssefsaeed-portfolio.vercel.app/demos/supply-chain/) | Supply chain planning control tower: MPS, BOM explosion, MRP netting, shortages, procurement and capacity on synthetic data | 🐍 Python | Nov 2026 |
 | [**portfolio**](https://github.com/YoussefSaeed1/portfolio) · [live](https://youssefsaeed-portfolio.vercel.app/) | Personal portfolio website: analytics, Power BI and machine learning projects, skills, experience and speaking | 🌐 HTML | Nov 2026 |
 | [**intelligent-demand-forecasting**](https://github.com/YoussefSaeed1/intelligent-demand-forecasting) · [live](https://idf-web.vercel.app) | ML vs baseline demand forecasting on Store Item & M5 (Walmart), with inventory simulation, Power BI report and a live Next.js/FastAPI research app | 🐍 Python | Nov 2026 |
